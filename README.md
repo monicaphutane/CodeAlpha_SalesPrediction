@@ -1,2 +1,2 @@
-# CodeAlpha_SalesPrediction
-Sales Prediction using Python (CodeAlpha Internship Task)
+# CodeAlpha_IrisFlowerClassification,UnemploymentAnalysisWithPython,CarPricePredictionWithMachineLearning,SalesPredictionUsingPython
+IrisFlowerClassification,UnemploymentAnalysisWithPython,CarPricePredictionWithMachineLearning,SalesPredictionUsingPython(CodeAlpha Internship Task)
